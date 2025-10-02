@@ -1,2 +1,2 @@
 # staticterminal
-testing with bold
+testing with Bolt
